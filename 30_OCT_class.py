@@ -12,4 +12,3 @@
 # 1) save (turn every item into an embedding and store it)
 # 2) search = turn the search into an embedding
 # 3) match = return the stored items with the closes embeddings
-
